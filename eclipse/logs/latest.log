@@ -1,0 +1,21 @@
+[00:12:17] [main/INFO]: Setting user: Player427
+[00:12:18] [Client thread/INFO]: LWJGL Version: 2.9.1
+[00:12:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Camp Mods
+[00:12:23] [Sound Library Loader/INFO]: Sound engine started
+[00:12:23] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:12:23] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[00:12:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Camp Mods
+[00:12:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[00:12:24] [Client thread/INFO]: Created: 512x512 textures/items-atlas
+[00:12:25] [Sound Library Loader/INFO]: Sound engine started
+[00:12:25] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[00:12:26] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[00:12:30] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:31] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:gui.button.press
+[00:12:34] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[00:12:34] [Client thread/INFO]: Stopping!
