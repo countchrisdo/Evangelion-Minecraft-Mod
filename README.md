@@ -1,4 +1,5 @@
 EvangelionMod
 =============
 
-Something I made in a week, it's full of bugs but I might turn it into something
+A small Evangelion themed Minecraft mod for Minecraft version 1.8
+Added new mobs and new weapons
