@@ -1,4 +1,4 @@
-EvangelionMod
+Evangelion Minecraft Mod
 =============
 
 A small Evangelion themed Minecraft mod for Minecraft version 1.8
